@@ -1,5 +1,4 @@
 # Using the Array Reduce Method
-
 ## Learning Goals
 
 * Learn how the `reduce()` method works
@@ -97,7 +96,7 @@ that without having to change any code by adjusting the initial value when we
 call `ourReduce()`:
 
 ```js
-console.log(ourReduce(couponLocations, couponCounter, 3)); // LOG: 18
+=]
 ```
 
 ## Demonstrate using `reduce()` with a Primitive Return Value
